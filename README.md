@@ -1,0 +1,2 @@
+# akk
+Custom Obsidian vault
